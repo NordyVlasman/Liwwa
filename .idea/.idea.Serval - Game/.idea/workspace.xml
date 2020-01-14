@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddda03b9-4b2d-47f6-a78b-7ecb7649084d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerDeath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Demo/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SoundManagerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerLanded.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerEnteredEndZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/EnablePlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/PatrolPathEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boosts/PlayerSpeedPad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/Patrol/PatrolPath.Move.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Simulation.InstanceRegister.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Fuzzy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/Patrol/PatrolPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Simulation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/KinematicObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Simulation.Event.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/EndZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/HeapQueue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/EnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/DoorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/DeathZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Demo/PhysicsObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boosts/PlayerJumpPad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/CheckpointController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/AnimationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/StartScreen/StartSceneScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/CountdownTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/DoorCollsion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Models/PlayerModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/HealthIsZero.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerEnemyCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerEnteredDeathZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerJumped.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/CountdownScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/EnemyDeath.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/EnablePlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/HeapQueue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Simulation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Simulation.Event.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Simulation.InstanceRegister.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Boosts/PlayerSpeedPad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/StartScreen/StartSceneScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/HealthIsZero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/EnemyDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/PatrolPathEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/Patrol/PatrolPath.Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/Patrol/PatrolPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/AnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Boosts/PlayerJumpPad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerEnemyCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/EnemyDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/CheckpointController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Demo/2DCharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Demo/PhysicsObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Demo/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/EnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerEnteredDeathZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/CountdownScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/CountdownTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/EndZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerEnteredEndZone.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U4db7m8GpUlNxwCMYJNsatt9WO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddda03b9-4b2d-47f6-a78b-7ecb7649084d" name="Default Changelist" comment="" />
+      <created>1574619870297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574619870297</updated>
+      <workItem from="1574619873983" duration="851000" />
+      <workItem from="1574676195967" duration="2614000" />
+      <workItem from="1574760652238" duration="641000" />
+      <workItem from="1574802244470" duration="1075000" />
+      <workItem from="1574842979722" duration="709000" />
+      <workItem from="1574862555156" duration="735000" />
+      <workItem from="1574935297427" duration="564000" />
+      <workItem from="1575276275110" duration="889000" />
+      <workItem from="1575361388202" duration="4948000" />
+      <workItem from="1575454084527" duration="3121000" />
+      <workItem from="1575534252905" duration="1061000" />
+      <workItem from="1575539724400" duration="258000" />
+      <workItem from="1575623252468" duration="688000" />
+      <workItem from="1575880062570" duration="1469000" />
+      <workItem from="1576054122961" duration="309000" />
+      <workItem from="1576061730453" duration="14000" />
+      <workItem from="1576061764603" duration="1924000" />
+      <workItem from="1576499157348" duration="1813000" />
+      <workItem from="1576578563141" duration="800000" />
+      <workItem from="1576663165940" duration="1908000" />
+      <workItem from="1576748435488" duration="1706000" />
+      <workItem from="1578221925774" duration="1649000" />
+      <workItem from="1578473481816" duration="143000" />
+      <workItem from="1578907650683" duration="7157000" />
+      <workItem from="1578927791210" duration="677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="341" y="160" key="SettingsEditor" timestamp="1576061742436">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="341" y="160" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1576061742436" />
+    <state x="0" y="23" width="1462" height="975" key="dock-window-1" timestamp="1576663648050">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="0" y="23" width="1462" height="975" key="dock-window-1/0.23.1680.975@0.23.1680.975" timestamp="1576663648050" />
+    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1576501073009">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/-1440.23.1440.877/0.23.1920.1005@0.23.1920.1005" timestamp="1576501073009" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
